@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm student                                    I'm currently learning web development                                Pronouns He/Him
+I'm student
+I'm currently learning web development
+Pronouns He/Him
 
 
 ## 🌐 Socials:
