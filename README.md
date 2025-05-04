@@ -32,7 +32,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm a student developer from Indonesia who's passionate about building web and mobile apps.<br><br>
+- 🔭 I’m working on personal projects using Laravel, React Native, and Node.js<br>
+- 📚 I'm currently learning React Native and exploring fullstack development with TypeScript<br>
+- ⚡ In my free time I play with UI/UX ideas, explore GitHub, and sometimes simulate networks with MikroTik
+</p>
 
 ###
 
